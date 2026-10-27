@@ -1,0 +1,6 @@
+{
+  "name": "RAY JAPAN Interactive Solutions",
+  "description": "RAY JAPAN デジタルデンティストリー・ソリューション (5Dソフトウェア・RAYFace・CAD/CAM・製品ラインナップ)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
